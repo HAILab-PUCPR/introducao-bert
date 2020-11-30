@@ -17,4 +17,6 @@ python -m pip install torch === 1.3.1 -f https://download.pytorch.org/whl/torch_
 
 4. Para executar o notebook, basta iniciar seu notebook Jupyter, por exemplo,
 
+```
 pipenv run jupyter notebook
+```
