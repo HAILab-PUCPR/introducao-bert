@@ -1,6 +1,8 @@
 # Introdução ao BERT
 
-Introdução sobre como usar o BERT para inferência.
+![https://raw.githubusercontent.com/HAILab-PUCPR/introducao-bert/main/imagens/bert-google.jpg]
+
+Introdução sobre como usar o BERT para gerar *word embeddings* e *sentences embeddings*, incorporação de palavras e sentenças, que podem ser usadas em outras tarefas de PLN..
 
 ## Instalação local
 
