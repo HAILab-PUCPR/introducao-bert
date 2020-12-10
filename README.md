@@ -2,7 +2,13 @@
 
 ![BERT](https://raw.githubusercontent.com/HAILab-PUCPR/introducao-bert/main/imagens/bert-google.jpg)
 
+[Introdução BERT](https://github.com/HAILab-PUCPR/introducao-bert/blob/main/introducao-bert.ipynb):
+
 Introdução sobre como usar o BERT para gerar *word embeddings* e *sentences embeddings*, incorporação de palavras e sentenças, que podem ser usadas em outras tarefas de PLN..
+
+[Classificação com BERT](https://github.com/HAILab-PUCPR/introducao-bert/blob/main/classificacao-bert.ipynb):
+
+Exemplo prático de como realizar uma classificação com o BERT, usando a classe **BertForSequenceClassification** da biblioteca Transformers do Hugging Faces.
 
 ## Instalação local
 
@@ -17,8 +23,10 @@ concha pipenv
 python -m pip install torch === 1.3.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-4. Para executar o notebook, basta iniciar seu notebook Jupyter, por exemplo,
+4. Para executar os notebooks, basta iniciar seu notebook Jupyter, por exemplo,
 
 ```
 pipenv run jupyter notebook
 ```
+
+Ou acessar via Google Colab.
