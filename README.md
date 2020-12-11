@@ -8,7 +8,7 @@ Introdução sobre como usar o BERT para gerar *word embeddings* e *sentences em
 
 [Classificação com BERT](https://github.com/HAILab-PUCPR/introducao-bert/blob/main/classificacao-bert.ipynb):
 
-Exemplo prático de como realizar uma classificação com o BERT, usando a classe **BertForSequenceClassification** da biblioteca Transformers do Hugging Faces.
+Exemplo prático de como realizar uma classificação com o BERT, usando a classe **BertForSequenceClassification** da biblioteca Transformers do Hugging Faces. (Link para Colab: https://colab.research.google.com/drive/11f8yeYfJv2vQO7Pw4Z3j-GwDHwKlWiE5?usp=sharing)
 
 ## Instalação local
 
