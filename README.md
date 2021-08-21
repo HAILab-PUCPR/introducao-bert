@@ -10,6 +10,8 @@ Introdução sobre como usar o BERT para gerar *word embeddings* e *sentences em
 
 Exemplo prático de como realizar uma classificação com o BERT, usando a classe **BertForSequenceClassification** da biblioteca Transformers do Hugging Faces. (Link para Colab: https://colab.research.google.com/drive/11f8yeYfJv2vQO7Pw4Z3j-GwDHwKlWiE5?usp=sharing)
 
+*Em breve: exemplo com NER e BERT**
+
 ## Instalação local
 
 1. Clone o repositório do GitHub
